@@ -3,3 +3,4 @@
 ## Salvando modificações = DIFF
 
 *comando git push
+*comando git pull
